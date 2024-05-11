@@ -613,6 +613,8 @@ button {
   flex-direction: column;
   justify-content: center;
   margin-bottom: 35px;
+  /* flex-wrap: wrap; */
+
 }
 
 .tf__banner_text h1 {
@@ -634,7 +636,7 @@ button {
   margin-bottom: 0;
 }
 .home_3 .tf__banner_text h1 span {
-  font-size: 80px !important;
+  font-size: 80px;
 }
 
 .tf__banner_text h1 span {
